@@ -13,6 +13,9 @@
     clear: both;
 }
 
+/* i container sono definiti da Bootstrap
+*/
+
 .col-xs-12 {
     background-color: #7c6392;
     height: 30px;
