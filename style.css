@@ -26,13 +26,18 @@
     /* width: 100%;  lo setta già Bootstrap*/
 }
 
-
 nav {
     height: 80px;
 }
 
 footer{
     height: 160px;
+}
+
+.box{
+    background-color: blue;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 /* classi per il bg-color */
