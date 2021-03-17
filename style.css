@@ -23,7 +23,9 @@
 
 .container {
     margin: auto;
+    /* width: 100%;  lo setta già Bootstrap*/
 }
+
 
 nav {
     height: 80px;
