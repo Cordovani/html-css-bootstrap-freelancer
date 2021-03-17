@@ -21,4 +21,30 @@
     height: 30px;
 }
 
+.container {
+    margin: auto;
+}
 
+nav {
+    height: 80px;
+}
+
+footer{
+    height: 160px;
+}
+
+/* classi per il bg-color */
+.darker {
+    background-color: rgb(44, 62, 80);
+}
+
+.dark {
+    background-color: rgb(58, 84, 109);
+}
+
+.green {
+    background-color: rgb(26, 188, 156);
+}
+
+
+/* .col-xs-12 è il comportamento di default */
